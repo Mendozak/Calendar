@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2980b9</color><!--Color Menu principal-->
+    <color name="colorPrimaryDark">#3498db</color><!--Color opciones-->
+    <color name="colorAccent">#212121</color>
+    <color name="GreenAccent">#16a085</color>
+    <color name="WhiteAccent">#FFFFFF</color>
+
+</resources>
